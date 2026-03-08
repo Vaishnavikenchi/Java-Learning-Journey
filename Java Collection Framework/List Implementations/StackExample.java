@@ -24,8 +24,5 @@ public class StackExample {
 
         //Displaying stack after the pop operation
         System.out.println("Stack After pop operation"+s);
-
-
-
     }
 }
