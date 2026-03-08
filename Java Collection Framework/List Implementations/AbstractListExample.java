@@ -3,8 +3,6 @@ import java.util.*;
 public class AbstractListExample { 
     public static void main(String args[]) 
     { 
-
-        // Creating an empty AbstractList 
         AbstractList<String> list = new LinkedList<String>(); 
 
         // Using add() method to add elements in the list 
