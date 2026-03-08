@@ -30,7 +30,8 @@ public class VectorExample {
         System.out.println("Vector After Updating:"+v1);
 
         //Iterating Vector
-        for(int i=0;i<v2.size();i++){
+        for(int i=0;i<v2.size();i++)
+        {
             System.out.println(v2.get(i));
         }
     }
