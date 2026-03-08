@@ -2,9 +2,8 @@ import java.util.ArrayList;
 class ArrayListExample{
    
     public static void main(String args[]){
-
-        
-        ArrayList<Integer> a=new ArrayList<Integer>();
+       
+       ArrayList<Integer> a=new ArrayList<Integer>();
 
         a.add(1);
         a.add(2);
@@ -36,6 +35,5 @@ class ArrayListExample{
         a.clear();
 
         System.out.println("Array List After Clear:"+a);
-
     }
 }
