@@ -3,7 +3,6 @@ import java.util.Stack;
 public class StackExample {
     public static void main(String args[]){
 
-        //Create a new Stack
         Stack<Integer> s =new Stack<Integer>();
 
         //Push elements onto the stack
