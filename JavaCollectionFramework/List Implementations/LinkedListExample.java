@@ -24,7 +24,6 @@ public class LinkedListExample {
         
         System.out.println("ArrayList AFter removing element at index 1:"+l);
 
-        //Removing Elements 
         l.remove("Six");
 
         System.out.println("ArrayList After removing Six:"+l);
