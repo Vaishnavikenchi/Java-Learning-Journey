@@ -1,4 +1,3 @@
-
 import java.util.*;
 
 public class HashSetExample {
@@ -17,6 +16,4 @@ public class HashSetExample {
 
         System.out.println("HashSet after removing element:"+hs);
     }
-    
-
 }
