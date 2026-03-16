@@ -22,7 +22,5 @@ public class Problem3 {
         int freq=Collections.frequency(list,103);
 
         System.out.println("Frequency of 30 is :"+freq);
-
-
     }
 }
