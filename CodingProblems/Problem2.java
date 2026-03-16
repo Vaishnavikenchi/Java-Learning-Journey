@@ -20,7 +20,5 @@ public class Problem2 {
         Collections.reverse(list);
 
         System.out.println("List After reverse:"+list);
-
-
     }
 }
