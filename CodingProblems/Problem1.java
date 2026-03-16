@@ -24,6 +24,5 @@ public class Problem1 {
     ArrayList<Integer> list=new ArrayList<>(set);
 
     System.out.println("ArrayList After removing duplicates:"+list);
-}
-
+  }
 }
